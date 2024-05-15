@@ -16,7 +16,7 @@ Clique nesse link **(https://codepen.io/duartegab/pen/VwOLVqO)** para poder aces
 
 Se liga no resultado aparecendo na página:
 
-![Gif](https://github.com/duartegab/Online-Party/blob/main/drinkwater.gif)
+![Gif](https://github.com/duartegab/Drink-Water/blob/main/drinkwater.gif)
 Ai aparece um gif de tela, além de passar uma curiosidade ao passar o mouse sobre o título. Você vê toda a animação funcionando em tempo real!
 
 
